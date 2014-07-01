@@ -1,0 +1,62 @@
+---
+---
+<head>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+        <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        
+        <div class="dropdown">
+            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+                Quick Jump
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                {% for fields in site.data.Comparison %}
+                <li role="presentation">
+                    <a role="menuitem" tabindex="0" href="#{{fields[0]}}">{{fields[0]}}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <br>
+        <p>
+            A micro research site to present information pertaining to bioinspired materials.
+            This webpage was made possible by the laborious <a href="http://www.biology.gatech.edu/people/jeannette-yen">Jeanette Yen</a>'s research group at Georgia Tech.
+        </p>
+        
+        
+        
+        {% for fields in site.data.Comparison %}
+        <div class="panel panel-{% cycle 'primary','success' %}">
+            <!-- Default panel contents -->
+            <div class="panel-heading">
+            <h3><a href="#{{fields[0]}}" id="{{fields[0]}}" style="color:black;">{{fields[0]}}</a></h3></div>
+            <!--<div class="panel-body"></div>-->
+    
+  
+
+  
+            <table class="table table-bordered">
+                <tr>
+                    {% for values in fields[1] %}
+                    
+                    <th class="col-lg-4" style="color:gray;">{{values[0]}}</th>
+                    {% endfor %}
+                </tr>
+                <tr>
+                    {% for values in fields[1] %}
+                    
+                    <td class="col-lg-4">{{values[1]}}</td>
+                    {% endfor %}
+                </tr>
+            </table>
+            
+        </div>
+        <hr>
+        {% endfor %}
+    </div>
+</body>

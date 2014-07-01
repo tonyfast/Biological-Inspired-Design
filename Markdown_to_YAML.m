@@ -67,8 +67,8 @@ for ii = 1 : numel( header )
     for jj = 1 : 2 : 6
         id = (ii-1) * 6 + jj
         fld = regexprep( s2{id}, ' ','_');
-        fprintf(fo, '- %s:\n', fld );
-        fprintf(fo, '  - %s\n', s2{id+1} );
+        fprintf(fo, '  %s:\n', fld );
+        fprintf(fo, '    %s\n', s2{id+1} );
     end
         
 end
