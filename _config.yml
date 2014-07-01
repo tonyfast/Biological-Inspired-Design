@@ -4,7 +4,7 @@ pygments: true
 
 # Modify these values
 #  url: http://localhost:4000
-url: http://openmaterials.github.io
+url: http://tonyfast.com
 # Repository Name
 baseurl: /Biological-Inspired-Design
 # default image location
