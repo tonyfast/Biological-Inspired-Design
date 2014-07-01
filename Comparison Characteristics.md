@@ -1,7 +1,11 @@
-Topic:Biological Inspired Design Analogue Comparison of Toucan Beak, Wood Pecker Scull, and Articular Cartilage Comparison Characteristics
+Topic: Biological Inspired Design Analogue Comparison of Toucan Beak, Wood Pecker Scull, and Articular Cartilage Comparison Characteristics
+
 Data Compliation: Tyrone Marshall
+
 Date: 2014.07.01
+
 Format: markdown
+
 Version 0.2
 
 Biological Comparisons for Toucan Beak, Wood Pecker Skull, and Articular Cartilage
@@ -12,7 +16,7 @@ Void Outer Layer
 
 #### Toucan Beak
 
-####### Keratin Exterior Shell
+###### Keratin Exterior Shell
 
 #### Wood Pecker Scull
 
