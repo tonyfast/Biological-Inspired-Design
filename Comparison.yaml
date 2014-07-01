@@ -1,0 +1,133 @@
+Void_Outer_Layer:
+- Toucan_Beak:
+  - Keratin Exterior Shell
+- Wood_Pecker_Scull:
+  - Spongy Cartilage
+- Articular_Cartilage:
+  - Fluid Saturated Gel Skeleton
+Void_Inner_Layer:
+- Toucan_Beak:
+  - Closed-Cell Fibrous Foam covered with overlapping Keratin scales
+- Wood_Pecker_Scull:
+  - Spongy Cartilage
+- Articular_Cartilage:
+  - Reinforced Collagen Fibers
+Void_Shape:
+- Toucan_Beak:
+  - Staggered Overlapping Hexagonal Thin Plates
+- Wood_Pecker_Scull:
+  - Plate-Like Stacking
+- Articular_Cartilage:
+  - Sparse Fibrous Network
+Void_Function:
+- Toucan_Beak:
+  - Prevent Crack Propagation
+- Wood_Pecker_Scull:
+  - Shock Absorbing
+- Articular_Cartilage:
+  - Load Energy Dissipation
+Void_Connective_Structure:
+- Toucan_Beak:
+  - Organic Glue
+- Wood_Pecker_Scull:
+  - Hierarchical Fiber Connection
+- Articular_Cartilage:
+  - Saturated Gel Elastic Skeleton
+Void_Connection:
+- Toucan_Beak:
+  - Fiber Struts
+- Wood_Pecker_Scull:
+  - Cartilage Bone Skeleton and Tissue Layer
+- Articular_Cartilage:
+  - Proteoglycan Molecule Saline Solution
+Void_Adaptation:
+- Toucan_Beak:
+  - Energy Absorption Capacity to Resist Compression
+- Wood_Pecker_Scull:
+  - Resistance to Impact Injury
+- Articular_Cartilage:
+  - Varying Orientation Load Distribution
+Void_Optimization:
+- Toucan_Beak:
+  - Foam Stabilization To Retard Shell Collapse
+- Wood_Pecker_Scull:
+  - Mechanical Properties for Impact Resistance
+- Articular_Cartilage:
+  - Time Varying Response to Mechanical Loading
+Void_Density:
+- Toucan_Beak:
+  - 50 kg/m\^3
+- Wood_Pecker_Scull:
+  - 1456 kg/m\^3
+- Articular_Cartilage:
+  - 1050 kg/m\^3
+Distribution_Patterns:
+- Toucan_Beak:
+  - Struts and Fibers
+- Wood_Pecker_Scull:
+  - Tightly Packed Brain Cranium
+- Articular_Cartilage:
+  - Fluid
+Distribution_Minerals:
+- Toucan_Beak:
+  - 25% Calcium
+- Wood_Pecker_Scull:
+  - Carbonate Hydroxylapatite
+- Articular_Cartilage:
+  - Collagen
+Pattern_Geometry:
+- Toucan_Beak:
+  - Piled and staggered Hexagonal keratin scales
+- Wood_Pecker_Scull:
+  - Rod-like bone structure in Beak
+- Articular_Cartilage:
+  - Water and Fibril Cartilage Skeleton
+Distribution_Pattern_Function:
+- Toucan_Beak:
+  - Preventing Shell Deformation and Collapse
+- Wood_Pecker_Scull:
+  - Reduce transmission of vibrations
+- Articular_Cartilage:
+  - Load dissipation
+Distribution_Size:
+- Toucan_Beak:
+  - Keratin scales are 50 micrometers in diameter and 1 micrometer thick glued together to form sheets
+- Wood_Pecker_Scull:
+  - No Data
+- Articular_Cartilage:
+  - 1,000 fibril segments in 10 micron diameter sample
+Physical_Characteristic_for_Youngs_Modulus:
+- Toucan_Beak:
+  - Foam Compression 5.6 MPa
+- Wood_Pecker_Scull:
+  - Cranium has hardness of 306.50+/- 19.42 MPa
+- Articular_Cartilage:
+  - Fluid has 0.625 MPa
+Physical_Performance:
+- Toucan_Beak:
+  - Tightly packed foam cells contribute to beak rigidity
+- Wood_Pecker_Scull:
+  - Strong and Self-Sharpening Beak
+- Articular_Cartilage:
+  - Osmotic Pressure
+Physical_Function:
+- Toucan_Beak:
+  - Closed air-filled spaces reduce overall weight
+- Wood_Pecker_Scull:
+  - Hyoid Bone Acts as Elastic Shock Absorber
+- Articular_Cartilage:
+  - Varying response to mechanical loading
+Physical_Optimization:
+- Toucan_Beak:
+  - Beak resists bending and twisting forces despite its size
+- Wood_Pecker_Scull:
+  - Even distribution of vibration loads over cranium
+- Articular_Cartilage:
+  - Strength varies with direction of material microstructures
+Physical_Indentation:
+- Toucan_Beak:
+  - Beak is 480 GPA for nano-indentation and 280 MPa for micro-indentation
+- Wood_Pecker_Scull:
+  - Beak is 470 MPa for nano-indentation and 320 MPa for micro-indentation
+- Articular_Cartilage:
+  - No Data
