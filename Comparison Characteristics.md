@@ -6,7 +6,6 @@
 
 Biological Comparisons for Toucan Beak, Wood Pecker Skull, and Articular Cartilage
 ---
-
 Void Outer Layer
 ----------------
 
