@@ -1,0 +1,162 @@
+# Bioinspired Green Lotus Fibers #
+
+Biological Analogue:Bioinspired Green Lotus Fibers
+Reference: Wu, M., Shuai, H., Cheng, Q., & Jiang, L. (2014). Bioinspired Green Composite Lotus Fibers. Angew. Chem. Int. Ed..
+DOI: 10.1002/anie.201310656
+
+- [ ] Why this research?
+		- [ ] Bioinspired solution to meeting growing demand for global environmentally friendly, fully biodegradable sustainable composite
+	- [ ] What is the inspiration?
+		- [ ] Meet or exceed unique high performance composite structure of cocoon silk
+			- [ ] BID Materials Research Technique
+				- [ ] Fibroin fibers
+					- [ ] Coated with thin film of sericin sheath
+						- [ ] Acts like a matrix
+						- [ ] Allows for efficient transfer of load stress to fibroin fibers
+						- [ ] Research study reveals that a smaller amount of sericin loading actually improves mechanical properties by 20%
+							- [ ] A loading of only 20-26.6wt%
+							- [ ] Much less than conventional carbon-fiber-reinforced composites
+	- [ ] Who would benefit from this research?
+		- [ ] Green materials applications in the following industries
+			- [ ] Textile
+			- [ ] Medical
+			- [ ] Automotive
+			- [ ] Aerospace
+	- [ ] How did this research meet its goal?
+		- [ ] Fabrication of fully green composite fiber(GCF)
+			- [ ] Components
+				- [ ] Lotus fiber
+					- [ ] Renewable resource
+						- [ ] Simple cultivation
+						- [ ] Low cost
+						- [ ] Abundant
+				- [ ] Biodegradable polymer, poly(vinyl alcohol), PVA
+			- [ ] Bioinspiration for GCF
+			- [ ] BID Materials Research Technique
+				- [ ] Emphasis on composition and performance
+					- [ ] Twisting of lotus fibers into single composite fiber with PVA from single lotus stem
+						- [ ] Tiny droplets of PVA sprayed onto spun out lotus fiber bundles from lotus stem
+						- [ ] Concentration of PVA matrix content set to follow reduced sericin loading in cocoon silk fibroin fibers
+							- [ ] Three experiments show that a concentration of 22.4wt% over 10.4 and 37.3%wt using diameter of 80.0um
+								- [ ] 22.4wt% is close to that of cocoon silk loading
+									- [ ] 10.4wt% not thick enough
+									- [ ] 37,3wt% too thick
+					- [ ] Improved tensile strength before emphasis on interface and performance
+						- [ ] 622.5+/-60.3 MPa
+					- [ ] Improved Young's modulus before emphasis on interface and performance
+						- [ ] 22.4+/-2.9 GPa
+				- [ ] Emphasis on interface and performance
+					- [ ] Two methods to improve interface strength
+						- [ ] Test were comparison of performance between Pure PVA film and PVA film of heat and cross linkage
+						- [ ] Pure PVA film performance
+							- [ ] 76.1+/-4.2 MPa tensile strength
+							- [ ] 2.4+/-0.3 GPa Young's modulus
+							- [ ] 456.5+/-87.9% Strain
+						- [ ] Heat method to fuse lotus fiber and PVA performance
+							- [ ] 148.8+/-7.3 MPa tensile strength, 60 degrees C for 2h (gain)
+							- [ ] 2.4+/-0.3 GPa Young's modulus (gain)
+							- [ ] 456.5+/-87.9% Strain (gain)
+						- [ ] Uses a cross linkage method PVA performance
+							- [ ] Glutaraldehyde(GA) agent
+							- [ ] 93.6+/-14.9 MPa tensile strength for ratio of 1:0.1 (gain)
+							- [ ] 118.2+/-35.3 MPa tensile strength for ratio of 1:1 (gain)
+							- [ ] Performance of GCF under cross linkage
+								- [ ] 669.6+/-82.9 MPA
+								- [ ] 35.4+/-8.9 GPa
+						- [ ] Heat method combined with cross linkage method
+							- [ ] 202.7+/-41.2 MPa tensile strength
+							- [ ] 3x the tensile strength of pure PVA
+							- [ ] Performance of GCF under heat and cross linkage method
+								- [ ] 714.3+/-48.5 MPa tensile strength
+								- [ ] 43.4+/-1.3 GPa Young's modulus
+								- [ ] Maximum strength reached 749 MPa
+									- [ ] 20% better than cocoon silk
+								- [ ] Efficient cross-linking between lotus fiber and PVA to improve load transfer from matrix to lotus fiber
+				- [ ] Synthesis of using lotus fibers structures as reinforcement material for bulk fabrication of green materials
+			- [ ] Properties
+				- [ ] Exceeds tensile strength of cocoon silk
+				- [ ] Specific modulus is three times higher than that of cocoon silk
+				- [ ] Exceeds tensile strength of any other natural or manmade composite fiber
+					- [ ] Carbon fiber
+					- [ ] Jute
+					- [ ] Hemp
+					- [ ] Kenaf
+					- [ ] Sisal fibers
+					- [ ] Bombyx mori silk
+						- [ ] 620.5 MPa tensile strength
+						- [ ] 20.5 GPa Young's modulus
+					- [ ] Flax
+					- [ ] Cotton
+					- [ ] Ramie
+				- [ ] Typical brittle fracture feature
+				- [ ] No delimitation between lotus fiber bundles or PVA after combining GA and heat
+				- [ ] Twist angle of fiber
+					- [ ] Angle between longitudinal direction of an individual fiber and axis of the twisted fiber
+						- [ ] BID Materials Research Technique
+						- [ ] Helps to attain desired mechanical properties
+						- [ ] 20 degree angle over 10 and 15 degrees
+							- [ ] Tensile strength higher
+								- [ ] Similar to carbon nanotube fiber studies
+				- [ ] Fiber shape
+					- [ ] Lotus is initially drawn out of lotus stem
+					- [ ] Lots fiber has orderly helix assembly in variated sizes of vessels and tracheids in the lotus stem
+						- [ ] The fiber is spun out of lotus stem with let-handed spiral structure
+						- [ ] Several lotus fibers are wound together into one bundle
+					- [ ] Elliptical or slightly over shape with diameter between
+						- [ ] 3.0-6.0 um
+					- [ ] Density
+						- [ ] 1.18 g cm&-3
+						- [ ] Lower than other natural fibers
+						- [ ] Density and specific mechanical properties are better than commercial fibers
+						- [ ] Specific tensile strength maximum
+							- [ ] 629 kNm^-1kg^-1
+						- [ ] Specific modulus of bioinspired GCF
+							- [ ] 37.8 MNm^-1kg^-1
+							- [ ] 3x larger than cocoon silk
+							- [ ] 
+					- [ ] Strength test of various bundles of lotus fiber
+						- [ ] Twisted single bundle
+							- [ ] 427.7+/-17.5 MPa Tensile strength
+							- [ ] 10.9+/-1.7 GPA Young's modulus
+							- [ ] 13.7+/-7.1MJm^-3 Toughness
+						- [ ] Twisted double bundle
+							- [ ] Noticeable smaller tensile strength
+								- [ ] 381.5+/-50.3 MPa Tensile strength
+								- [ ] Similar stress strain curves differences
+								- [ ] Step failure follows similar pattern as strength, and stress
+								- [ ] Less because of loose and low densification
+								- [ ] Poor efficient load transfer
+						- [ ] Twisted triple bundle
+							- [ ] Noticeable smaller tensile strength
+								- [ ] 211.1+/-29.3 MPa Tensile strength
+								- [ ] Similar stress strain curves differences
+								- [ ] Step failure follows similar pattern as strength, and stress
+								- [ ] Less because of loose and low densification
+								- [ ] Poor efficient load transfer
+						- [ ] Twisted quad bundle
+							- [ ] Noticeable smaller tensile strength
+								- [ ] 174.6+/-21.2 MPa Tensile strength
+								- [ ] Similar stress strain curves differences
+								- [ ] Step failure follows similar pattern as strength, and stress
+								- [ ] Less because of loose and low densification
+								- [ ] Poor efficient load transfer
+						- [ ] Twisted all lotus fiber from one lotus stem into a bundle
+							- [ ] Better performance than double, triple, or quad bundle
+							- [ ] 329.4+/-28.6 MPa Tensile strength
+							- [ ] Similar stress strain curves differences
+							- [ ] Stress strain curve shows integration of failure mode
+								- [ ] densification of twisted lotus fiber proceeded efficiently
+							- [ ] Higher densification of twisted lotus fiber bundles from whole stem
+								- [ ] BID Materials Research Technique
+		- [ ] Traditional green composites
+			- [ ] Non-degradable thermoplastic polymers
+				- [ ] Polyethylene (PE)
+				- [ ] Polyesters
+				- [ ] Poly(methyl methacrylate)(PMMA)
+				- [ ] Thermosetting polymers
+					- [ ] Epoxy
+					- [ ] Polyurethane
+		- [ ] Fully biodegradable composites
+			- [ ] Composed of natural fibers
+			- [ ] Biodegradable resins
+			- [ ] Sustainable materials based on renewable resources
